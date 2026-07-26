@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kebonrejo3.web.id/sitemap.xml
