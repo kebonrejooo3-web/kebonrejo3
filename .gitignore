@@ -1,0 +1,11 @@
+# GitIgnore untuk Repository Website Profil & WebGIS Dusun Kebonrejo 3
+backup/
+*.heic
+*.HEIC
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+scratch/
